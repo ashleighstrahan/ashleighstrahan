@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ashleigh Strahan!
+- 👀 I’m interested in software development!
+- 🌱 I’m currently learning React.js and Gatsby.js
+- 💞️ I’m looking to collaborate on interactive applications built with HTML, CSS, JavaScript/React.js/Gatsby.js
+- 📫 How to reach me at strahanashleigh01@gmail.com
